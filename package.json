@@ -5,7 +5,7 @@
   "main": "src/capitalize.js",
   "scripts": {
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watchAll --verbose"
   },
   "repository": {
     "type": "git",
