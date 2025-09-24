@@ -1,0 +1,33 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "JavaScript testing practice from The Odin Project — small functions tested with Jest (capitalize, reverseString, calculator).",
+  "main": "src/capitalize.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devxsameer/odin-testing-practice.git"
+  },
+  "keywords": [
+    "jest",
+    "testing",
+    "tdd",
+    "babel",
+    "the-odin-project"
+  ],
+  "author": "Sameer Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devxsameer/odin-testing-practice/issues"
+  },
+  "homepage": "https://github.com/devxsameer/odin-testing-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.28.4",
+    "@babel/preset-env": "^7.28.3",
+    "babel-jest": "^30.1.2",
+    "jest": "^30.1.3"
+  }
+}
